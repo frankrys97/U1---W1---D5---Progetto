@@ -160,17 +160,16 @@ aside {
 
 .articles p {
   font-weight: 200;
-  padding: 15px;
+  padding: 15px 0;
 }
 /* Footer */
 
 footer {
   color: #c8e7f0;
   background-color: #25a2c3;
-  padding-bottom: 70px;
   h2 {
     font-size: 2.5em;
-    padding: 50px 0;
+    padding: 40px 0;
     font-weight: bold;
     color: white;
     text-align: center;
@@ -179,11 +178,10 @@ footer {
   a {
     color: #c8e7f0;
   }
-
 }
 
 ul {
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
 ul a {
@@ -210,20 +208,18 @@ ul a {
   display: block;
   text-align: left;
   margin: 0 auto;
-  max-width: 300px;
+  max-width: 250px;
 }
 
 hr {
   color: #c8e7f0;
-  width: 25%;
+  width: 20%;
 }
-
-footer div {
-  margin-bottom: 40px;
-}
-
 .copy {
   text-align: center;
+  margin: 0;
+  padding-bottom: 50px;
+  font-size: 0.8em;
 }
 
 .list a:nth-child(3) {
